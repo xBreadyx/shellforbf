@@ -1,0 +1,1 @@
+./core1.bash & ./core1.bash & ./core1.bash & ./core1.bash & ./core1.bash && fg
